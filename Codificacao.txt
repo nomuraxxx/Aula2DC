@@ -1,0 +1,3 @@
+Plataforma desenvolvida em html+css+java script para as aplicações web
+Para Aplicações mobile, vamos produzir em cada plataforma (Android e IOS) e o serviço web com react e react native para uma melhor apresentação
+Banco de dados em Mysql integrado com a plataforma web e aplicação mobile.

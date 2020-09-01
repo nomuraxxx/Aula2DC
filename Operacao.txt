@@ -1,0 +1,3 @@
+Monitoramento das reações dos usuarios nas plataformas.
+Pesquisa de satisfação do motorista do aplicativo.
+Contratação de profissionais de segurança para localização de vulnerabilidades nas aplicações.

@@ -1,0 +1,3 @@
+Verificação da localização do usuario para o deslocamento do veiculo mais proximo.
+Verificar a quantidade de usuarios que vão seguir na viagem.
+	
